@@ -1,0 +1,7 @@
+setup.py
+srun.egg-info/PKG-INFO
+srun.egg-info/SOURCES.txt
+srun.egg-info/dependency_links.txt
+srun.egg-info/entry_points.txt
+srun.egg-info/requires.txt
+srun.egg-info/top_level.txt
