@@ -1,2 +1,2 @@
-# Cp-Test-Case-Checker-and-Parser
-# Cp-Test-Case-Checker-and-Parser
+# CpTCParser
+My Command Line Tool for Competitve Programming which Checks my solution locally and Parses the Test Cases using Competitive Companion from the browser.
